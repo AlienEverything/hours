@@ -1,3 +1,4 @@
+import { siteAssets } from './site-assets.mjs';
 import { createServer } from 'node:http';
 import { readFile } from 'node:fs/promises';
 import { resolve, extname, sep } from 'node:path';
@@ -27,8 +28,9 @@ async function environment() {
   return { ...values, BUCKET: bucket };
 }
 async function assets(path) {
-  const target = resolve(root, 'public', `.${path}`);
-  if (!target.startsWith(`${resolve(root, 'public')}${sep}`)) return null;
+  if (!siteAssets.includes(path.slice(1))) return null;
+  const target = resolve(root, `.${path}`);
+  if (!target.startsWith(`${root}${sep}`)) return null;
   try { return { body: new Uint8Array(await readFile(target)), type: mime[extname(target)] || 'application/octet-stream' }; }
   catch (error) { if (['ENOENT', 'EISDIR'].includes(error.code)) return null; throw error; }
 }

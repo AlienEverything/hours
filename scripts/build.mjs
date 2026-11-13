@@ -1,22 +1,14 @@
-import { mkdir, readdir, readFile, writeFile, rm, copyFile } from 'node:fs/promises';
+import { siteAssets } from './site-assets.mjs';
+import { mkdir, readFile, writeFile, rm, copyFile } from 'node:fs/promises';
 import { resolve, join, extname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 const root = resolve(fileURLToPath(new URL('..', import.meta.url)));
 const mime = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.css': 'text/css; charset=utf-8', '.json': 'application/json; charset=utf-8', '.svg': 'image/svg+xml', '.png': 'image/png', '.webp': 'image/webp', '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.woff2': 'font/woff2', '.ico': 'image/x-icon' };
 const assets = {};
-async function collect(directory, prefix = '') {
-  for (const entry of await readdir(directory, { withFileTypes: true })) {
-    if (entry.name.startsWith('.')) continue;
-    const path = join(directory, entry.name);
-    const assetPath = `${prefix}/${entry.name}`;
-    if (entry.isDirectory()) await collect(path, assetPath);
-    else {
-      const bytes = await readFile(path);
-      assets[assetPath] = { body: bytes.toString('base64'), encoding: 'base64', type: mime[extname(path)] || 'application/octet-stream' };
-    }
-  }
+for (const assetPath of siteAssets) {
+  const bytes = await readFile(join(root, assetPath));
+  assets[`/${assetPath}`] = { body: bytes.toString('base64'), encoding: 'base64', type: mime[extname(assetPath)] || 'application/octet-stream' };
 }
-await collect(join(root, 'public'));
 for (const path of ['/index.html', '/class.html', '/admin.html']) if (!assets[path]) throw new Error(`Missing page: ${path}`);
 const seed = JSON.parse(await readFile(join(root, 'data/students.json'), 'utf8'));
 if (!Array.isArray(seed.students) || !seed.students.length) throw new Error('Student data is required.');

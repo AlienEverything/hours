@@ -2,7 +2,7 @@
 
 Arabic-first school leaderboard with English interface, class rankings and password-protected editing. Student names remain their original Arabic spelling. All seven class rosters and the supplied hour submissions are imported into `data/students.json`; students without a matched submission have `recorded: false`.
 
-The site contains separate HTML pages in `public/`: `index.html`, `class.html` and `admin.html`. The server is a dependency-free Cloudflare Worker. Student updates persist in its `BUCKET` R2 binding, rather than browser storage. Concurrent saves are rejected with a conflict response instead of silently overwriting another edit.
+The site contains separate HTML pages at the repository root: `index.html`, `class.html` and `admin.html`. The server is a dependency-free Cloudflare Worker. Student updates persist in its `BUCKET` R2 binding, rather than browser storage. Concurrent saves are rejected with a conflict response instead of silently overwriting another edit.
 
 ## Local development
 
@@ -23,7 +23,7 @@ The hosting platform supplies the R2 bucket as `BUCKET`. Deploy `dist/` as a Wor
 
 ## GitHub Pages
 
-GitHub Pages serves static files and cannot securely validate a password or save shared hour totals. It can host the files in `public/` as a frontend when connected to an independently hosted backend. Set `window.ATHAR_CONFIG.apiBaseUrl` in `public/config.js` to that backend's HTTPS origin, and set the backend runtime `PUBLIC_ORIGIN` to the exact Pages origin to allow public read requests. The backend must be accessible to the intended visitors; an owner-private Site cannot act as an anonymous public API.
+GitHub Pages serves static files and cannot securely validate a password or save shared hour totals. It can host the root-level website files as a frontend when connected to an independently hosted backend. Set `window.ATHAR_CONFIG.apiBaseUrl` in `config.js` to that backend's HTTPS origin, and set the backend runtime `PUBLIC_ORIGIN` to the exact Pages origin to allow public read requests. The backend must be accessible to the intended visitors; an owner-private Site cannot act as an anonymous public API.
 
 Administration must open `admin.html` on the backend's own origin. Cross-origin editing is deliberately disabled. Keep the normal same-origin deployment for a complete site without additional configuration.
 
@@ -33,4 +33,6 @@ Normal hour edits happen through the admin page. Imported seed data is used only
 
 ## GitHub Pages publication
 
-The `Publish school website` Actions workflow builds `public/` with `scripts/build-pages.mjs` and publishes only the frontend and an initial record snapshot. It attempts live reads from the backend; if that private backend is unavailable, a visible notice identifies the dated snapshot. Editing opens the protected backend. Enabling anonymous live reads requires making that backend public.
+GitHub Pages publishes the **main** branch, **/ (root)**. The root contains `index.html`, `class.html`, `admin.html`, their CSS/JavaScript, fonts, and `records.json`. `.nojekyll` keeps these files as authored. There is no separate custom Pages deployment workflow competing with branch publication.
+
+The website attempts live reads from the backend. If that private backend is unavailable, it displays `records.json` with a notice identifying the dated snapshot. Editing opens the protected backend. Enabling anonymous live reads requires making that backend public.
