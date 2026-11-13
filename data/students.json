@@ -1,0 +1,1337 @@
+{
+  "students": [
+    {
+      "id": "101-01",
+      "classId": "101",
+      "nameAr": "امجد بن مؤيد بن حسين المبارك",
+      "nameEn": "Amjad bin Muayyad bin Hussein Al-Mubarak",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-02",
+      "classId": "101",
+      "nameAr": "احمد بن علاء بن هاشم الحسن",
+      "nameEn": "Ahmad bin Alaa bin Hashem Al-Hasan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-03",
+      "classId": "101",
+      "nameAr": "الحسن عباس بن علي الحمادي",
+      "nameEn": "Al-Hasan Abbas bin Ali Al-Hammadi",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-04",
+      "classId": "101",
+      "nameAr": "جواد ماهر بن جواد المسلم",
+      "nameEn": "Jawad Maher bin Jawad Al-Muslim",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-05",
+      "classId": "101",
+      "nameAr": "حسن بن مرتضى بن حسن الخلف",
+      "nameEn": "Hasan bin Murtadha bin Hasan Al-Khalaf",
+      "hours": 27.5,
+      "recorded": true,
+      "sourcePage": 51
+    },
+    {
+      "id": "101-06",
+      "classId": "101",
+      "nameAr": "حسين بن علي بن عبدالله الحاجي",
+      "nameEn": "Hussein bin Ali bin Abdullah Al-Haji",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-07",
+      "classId": "101",
+      "nameAr": "حسين بن علي بن عبدالهادي العبدالمحسن",
+      "nameEn": "Hussein bin Ali bin Abdulhadi Al-Abdulmohsen",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-08",
+      "classId": "101",
+      "nameAr": "رضا بن عبدالمنعم بن حسين الحسن",
+      "nameEn": "Ridha bin Abdulmunim bin Hussein Al-Hasan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-09",
+      "classId": "101",
+      "nameAr": "عبدالشهيد بن علي بن عبدالله المكينه",
+      "nameEn": "Abdulshaheed bin Ali bin Abdullah Al-Makinah",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-10",
+      "classId": "101",
+      "nameAr": "عبدالله عقيل عبدالله بوشيت",
+      "nameEn": "Abdullah Aqil Abdullah Bushaith",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-11",
+      "classId": "101",
+      "nameAr": "علي بن محمد بن سعيد الخرس",
+      "nameEn": "Ali bin Mohammed bin Saeed Al-Khars",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-12",
+      "classId": "101",
+      "nameAr": "علي رضا حسين البطاط",
+      "nameEn": "Ali Ridha Hussein Al-Battat",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-13",
+      "classId": "101",
+      "nameAr": "علي منير بن محمد الخليفه",
+      "nameEn": "Ali Munir bin Mohammed Al-Khalifah",
+      "hours": 0,
+      "recorded": true,
+      "sourcePage": 7
+    },
+    {
+      "id": "101-14",
+      "classId": "101",
+      "nameAr": "كنان مؤيد محمد الهلال",
+      "nameEn": "Kinan Muayyad Mohammed Al-Hilal",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-15",
+      "classId": "101",
+      "nameAr": "محمد بن جعفر بن محمد المهدي",
+      "nameEn": "Mohammed bin Jaafar bin Mohammed Al-Mahdi",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-16",
+      "classId": "101",
+      "nameAr": "محمد بن حبيب بن احمد المهدي",
+      "nameEn": "Mohammed bin Habib bin Ahmad Al-Mahdi",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-17",
+      "classId": "101",
+      "nameAr": "محمد بن علاء بن هاشم الحسن",
+      "nameEn": "Mohammed bin Alaa bin Hashem Al-Hasan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-18",
+      "classId": "101",
+      "nameAr": "محمد بن علي بن طاهر التريكي",
+      "nameEn": "Mohammed bin Ali bin Tahir Al-Turaiki",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-19",
+      "classId": "101",
+      "nameAr": "محمد عبدالرزاق بن عيسى القديحي",
+      "nameEn": "Mohammed Abdulrazzaq bin Essa Al-Qudaihi",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-20",
+      "classId": "101",
+      "nameAr": "مهدي هاني عبدالله السويلم",
+      "nameEn": "Mahdi Hani Abdullah Al-Suwailim",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "101-21",
+      "classId": "101",
+      "nameAr": "يحيى عبدالهادي حسين الزين",
+      "nameEn": "Yahya Abdulhadi Hussein Al-Zain",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-01",
+      "classId": "102",
+      "nameAr": "احمد بن مختار بن احمد المسلم",
+      "nameEn": "Ahmad bin Mukhtar bin Ahmad Al-Muslim",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-02",
+      "classId": "102",
+      "nameAr": "احمد بن عبدالعزيز بن عبدالله النهيسان",
+      "nameEn": "Ahmad bin Abdulaziz bin Abdullah Al-Nuhaisan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-03",
+      "classId": "102",
+      "nameAr": "اسامه بن احمد بن صالح العيسى",
+      "nameEn": "Osama bin Ahmad bin Saleh Al-Essa",
+      "hours": 61.5,
+      "recorded": true,
+      "sourcePage": 23
+    },
+    {
+      "id": "102-04",
+      "classId": "102",
+      "nameAr": "المجتبى بن يوسف بن ابراهيم الابوي",
+      "nameEn": "Al-Mujtaba bin Yusuf bin Ibrahim Al-Abawi",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-05",
+      "classId": "102",
+      "nameAr": "حسن بن بندر بن معتوق الشواكر",
+      "nameEn": "Hasan bin Bandar bin Maatouq Al-Shawaker",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-06",
+      "classId": "102",
+      "nameAr": "حسن بن وليد بن سلمان الناظري",
+      "nameEn": "Hasan bin Walid bin Salman Al-Nadhiri",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-07",
+      "classId": "102",
+      "nameAr": "حسين بن احمد بن عبدالواحد الخرس",
+      "nameEn": "Hussein bin Ahmad bin Abdulwahid Al-Khars",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-08",
+      "classId": "102",
+      "nameAr": "حسين بن علي بن محمد العيسى",
+      "nameEn": "Hussein bin Ali bin Mohammed Al-Essa",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-09",
+      "classId": "102",
+      "nameAr": "حسين سامي بن محمد الحنفوش",
+      "nameEn": "Hussein Sami bin Mohammed Al-Hanfoush",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-10",
+      "classId": "102",
+      "nameAr": "عباس بن قاسم بن موسى الهفوفي",
+      "nameEn": "Abbas bin Qasim bin Mousa Al-Hofufi",
+      "hours": 325,
+      "recorded": true,
+      "sourcePage": 11
+    },
+    {
+      "id": "102-11",
+      "classId": "102",
+      "nameAr": "عباس بن مصطفى بن عباس المكي",
+      "nameEn": "Abbas bin Mustafa bin Abbas Al-Makki",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-12",
+      "classId": "102",
+      "nameAr": "عبدالعزيز بن عبدالمنعم بن محمد الخلوف",
+      "nameEn": "Abdulaziz bin Abdulmunim bin Mohammed Al-Khulouf",
+      "hours": 85,
+      "recorded": true,
+      "sourcePage": 43
+    },
+    {
+      "id": "102-13",
+      "classId": "102",
+      "nameAr": "عبدالله احمد بن علي العلي",
+      "nameEn": "Abdullah Ahmad bin Ali Al-Ali",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-14",
+      "classId": "102",
+      "nameAr": "عبدالله عماد بن عبدالله الحاجي",
+      "nameEn": "Abdullah Imad bin Abdullah Al-Haji",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-15",
+      "classId": "102",
+      "nameAr": "عبدالله محمد عبدالله الممتن",
+      "nameEn": "Abdullah Mohammed Abdullah Al-Mumattan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-16",
+      "classId": "102",
+      "nameAr": "عبدالله ميثم محمد الحسن",
+      "nameEn": "Abdullah Maytham Mohammed Al-Hasan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-17",
+      "classId": "102",
+      "nameAr": "عبدالمحسن احمد بن عايش بوصالح",
+      "nameEn": "Abdulmohsen Ahmad bin Ayesh Busaleh",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-18",
+      "classId": "102",
+      "nameAr": "علي بن حسين بن علي العلي",
+      "nameEn": "Ali bin Hussein bin Ali Al-Ali",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-19",
+      "classId": "102",
+      "nameAr": "علي بن مصطفى بن عبدالمحسن الهاشم",
+      "nameEn": "Ali bin Mustafa bin Abdulmohsen Al-Hashem",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-20",
+      "classId": "102",
+      "nameAr": "علي شاكر بن جواد السعد",
+      "nameEn": "Ali Shakir bin Jawad Al-Saad",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-21",
+      "classId": "102",
+      "nameAr": "عمار محمد بن ناصر السرحان",
+      "nameEn": "Ammar Mohammed bin Nasser Al-Sarhan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-22",
+      "classId": "102",
+      "nameAr": "فاضل بن رائد بن علي الغراش",
+      "nameEn": "Fadhil bin Raed bin Ali Al-Gharash",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-23",
+      "classId": "102",
+      "nameAr": "قاسم بن مرتضى بن حسين السلمان",
+      "nameEn": "Qasim bin Murtadha bin Hussein Al-Salman",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-24",
+      "classId": "102",
+      "nameAr": "محمد علي بن ناجي عبداللطيف",
+      "nameEn": "Mohammed Ali bin Naji Abdullatif",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-25",
+      "classId": "102",
+      "nameAr": "مظاهر بن حبيب بن احمد الحاجي احمد",
+      "nameEn": "Madhahir bin Habib bin Ahmad Al-Haji Ahmad",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "102-26",
+      "classId": "102",
+      "nameAr": "ناصر مسلم بن ناصر السلطان",
+      "nameEn": "Nasser Muslim bin Nasser Al-Sultan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-01",
+      "classId": "103",
+      "nameAr": "احمد عبدالله احمد الرويشد",
+      "nameEn": "Ahmad Abdullah Ahmad Al-Ruwaished",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-02",
+      "classId": "103",
+      "nameAr": "الحسن ايمن بن حسن الفايز",
+      "nameEn": "Al-Hasan Ayman bin Hasan Al-Fayez",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-03",
+      "classId": "103",
+      "nameAr": "الرضا بن حسين بن عبدالله السالم",
+      "nameEn": "Al-Ridha bin Hussein bin Abdullah Al-Salem",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-04",
+      "classId": "103",
+      "nameAr": "تميم سعد بن محمد آل درويش",
+      "nameEn": "Tamim Saad bin Mohammed Al Darwish",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-05",
+      "classId": "103",
+      "nameAr": "حسن بن حسين بن عبدالله الداود",
+      "nameEn": "Hasan bin Hussein bin Abdullah Al-Dawood",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-06",
+      "classId": "103",
+      "nameAr": "حسن بن سعد بن ناصر الحميد",
+      "nameEn": "Hasan bin Saad bin Nasser Al-Humaid",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-07",
+      "classId": "103",
+      "nameAr": "حسين بن يوسف بن محمد العباد",
+      "nameEn": "Hussein bin Yusuf bin Mohammed Al-Abbad",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-08",
+      "classId": "103",
+      "nameAr": "خالد احمد بن مبارك المعيوف",
+      "nameEn": "Khalid Ahmad bin Mubarak Al-Maayouf",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-09",
+      "classId": "103",
+      "nameAr": "رضا محمد حسين السالم",
+      "nameEn": "Ridha Mohammed Hussein Al-Salem",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-10",
+      "classId": "103",
+      "nameAr": "زياد تركي جريذى الرشيدى",
+      "nameEn": "Ziyad Turki Juraidhi Al-Rashidi",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-11",
+      "classId": "103",
+      "nameAr": "سلمان محمود بن عبدالله السليم",
+      "nameEn": "Salman Mahmoud bin Abdullah Al-Sulaim",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-12",
+      "classId": "103",
+      "nameAr": "ضاري بن محمد بن حسين الحسين السويلم",
+      "nameEn": "Dhari bin Mohammed bin Hussein Al-Hussein Al-Suwailim",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-13",
+      "classId": "103",
+      "nameAr": "عبدالرحمن ابراهيم حسن حريري",
+      "nameEn": "Abdulrahman Ibrahim Hasan Hariri",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-14",
+      "classId": "103",
+      "nameAr": "عبداللطيف بن عبدالعزيز بن عبداللطيف العود",
+      "nameEn": "Abdullatif bin Abdulaziz bin Abdullatif Al-Oud",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-15",
+      "classId": "103",
+      "nameAr": "عبدالله بن حسين بن رمضان الجاسم",
+      "nameEn": "Abdullah bin Hussein bin Ramadan Al-Jasim",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-16",
+      "classId": "103",
+      "nameAr": "علي بن سعيد بن خليل السكني",
+      "nameEn": "Ali bin Saeed bin Khalil Al-Sakni",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-17",
+      "classId": "103",
+      "nameAr": "علي ياسر عايش الخليفه",
+      "nameEn": "Ali Yasser Ayesh Al-Khalifah",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-18",
+      "classId": "103",
+      "nameAr": "محمد بن عبدالواحد بن كاظم الرشيد",
+      "nameEn": "Mohammed bin Abdulwahid bin Kadhim Al-Rashid",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-19",
+      "classId": "103",
+      "nameAr": "محمد حسين محمد العلي",
+      "nameEn": "Mohammed Hussein Mohammed Al-Ali",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-20",
+      "classId": "103",
+      "nameAr": "محمد حمد محمد الحسين",
+      "nameEn": "Mohammed Hamad Mohammed Al-Hussein",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "103-21",
+      "classId": "103",
+      "nameAr": "محمد هاضل ابن عايض السبيعي",
+      "nameEn": "Mohammed Hadhil ibn Ayed Al-Subaie",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-01",
+      "classId": "201",
+      "nameAr": "احمد بن محمد بن احمد الدندن",
+      "nameEn": "Ahmad bin Mohammed bin Ahmad Al-Dandan",
+      "hours": 451,
+      "recorded": true,
+      "sourcePage": 5
+    },
+    {
+      "id": "201-02",
+      "classId": "201",
+      "nameAr": "احمد بن حسين بن محمد اللويم",
+      "nameEn": "Ahmad bin Hussein bin Mohammed Al-Luwaim",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-03",
+      "classId": "201",
+      "nameAr": "احمد حمزة احمد يوسف",
+      "nameEn": "Ahmad Hamza Ahmad Yusuf",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-04",
+      "classId": "201",
+      "nameAr": "الياس بن حسن بن جواد السلمان",
+      "nameEn": "Elias bin Hasan bin Jawad Al-Salman",
+      "hours": 173,
+      "recorded": true,
+      "sourcePage": 31
+    },
+    {
+      "id": "201-05",
+      "classId": "201",
+      "nameAr": "حسن بن احمد بن جواد السلمان",
+      "nameEn": "Hasan bin Ahmad bin Jawad Al-Salman",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-06",
+      "classId": "201",
+      "nameAr": "رائد بن عبداللطيف بن محمد الدجاني",
+      "nameEn": "Raed bin Abdullatif bin Mohammed Al-Dajani",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-07",
+      "classId": "201",
+      "nameAr": "رائد بن فاضل بن طاهر الحبرتي",
+      "nameEn": "Raed bin Fadhil bin Tahir Al-Habarti",
+      "hours": 78,
+      "recorded": true,
+      "sourcePage": 53
+    },
+    {
+      "id": "201-08",
+      "classId": "201",
+      "nameAr": "رضا بن حسين بن حجي الحليمي",
+      "nameEn": "Ridha bin Hussein bin Hajji Al-Hulaimi",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-09",
+      "classId": "201",
+      "nameAr": "رضا بن زهير بن حسين الدندن",
+      "nameEn": "Ridha bin Zuhair bin Hussein Al-Dandan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-10",
+      "classId": "201",
+      "nameAr": "رضا بن علي بن حسين الخليفة",
+      "nameEn": "Ridha bin Ali bin Hussein Al-Khalifah",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-11",
+      "classId": "201",
+      "nameAr": "سجاد بن حسن جواد الخويتم",
+      "nameEn": "Sajjad bin Hasan Jawad Al-Khuwaitim",
+      "hours": 70,
+      "recorded": true,
+      "sourcePage": 49
+    },
+    {
+      "id": "201-12",
+      "classId": "201",
+      "nameAr": "صالح بن نايف بن صالح البراز",
+      "nameEn": "Saleh bin Naif bin Saleh Al-Barraz",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-13",
+      "classId": "201",
+      "nameAr": "عباس بن طاهر بن محمد المكي",
+      "nameEn": "Abbas bin Tahir bin Mohammed Al-Makki",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-14",
+      "classId": "201",
+      "nameAr": "عبدالعزيز بن محمد بن عبدالعزيز العمران",
+      "nameEn": "Abdulaziz bin Mohammed bin Abdulaziz Al-Omran",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-15",
+      "classId": "201",
+      "nameAr": "عبدالكريم بن حسين بن ناصر الحسن",
+      "nameEn": "Abdulkarim bin Hussein bin Nasser Al-Hasan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-16",
+      "classId": "201",
+      "nameAr": "عبدالله بن عبدالحميد بن موسى الموسى",
+      "nameEn": "Abdullah bin Abdulhamid bin Mousa Al-Mousa",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-17",
+      "classId": "201",
+      "nameAr": "علي بن محمد بن طاهر العلوي",
+      "nameEn": "Ali bin Mohammed bin Tahir Al-Alawi",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-18",
+      "classId": "201",
+      "nameAr": "علي بن ناصر بن عبدالمحسن السلمان",
+      "nameEn": "Ali bin Nasser bin Abdulmohsen Al-Salman",
+      "hours": 80,
+      "recorded": true,
+      "sourcePage": 1
+    },
+    {
+      "id": "201-19",
+      "classId": "201",
+      "nameAr": "فارس بن احمد بن محمد البحراني",
+      "nameEn": "Fares bin Ahmad bin Mohammed Al-Bahrani",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-20",
+      "classId": "201",
+      "nameAr": "قاسم بن محمد بن علي الدندن",
+      "nameEn": "Qasim bin Mohammed bin Ali Al-Dandan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-21",
+      "classId": "201",
+      "nameAr": "قاسم بن مرتضى بن علي السلمان",
+      "nameEn": "Qasim bin Murtadha bin Ali Al-Salman",
+      "hours": 549,
+      "recorded": true,
+      "sourcePage": 19
+    },
+    {
+      "id": "201-22",
+      "classId": "201",
+      "nameAr": "ليث بن حبيب بن احمد النيف",
+      "nameEn": "Laith bin Habib bin Ahmad Al-Naif",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-23",
+      "classId": "201",
+      "nameAr": "محمد بن حسن بن محمد بوعلي",
+      "nameEn": "Mohammed bin Hasan bin Mohammed Bu Ali",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-24",
+      "classId": "201",
+      "nameAr": "محمد بن عبدالعزيز بن محمد الخميس",
+      "nameEn": "Mohammed bin Abdulaziz bin Mohammed Al-Khamis",
+      "hours": 120,
+      "recorded": true,
+      "sourcePage": 27
+    },
+    {
+      "id": "201-25",
+      "classId": "201",
+      "nameAr": "محمد بن علي بن عايض الدندن",
+      "nameEn": "Mohammed bin Ali bin Ayed Al-Dandan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-26",
+      "classId": "201",
+      "nameAr": "محمد بن عمار بن علي الدندن",
+      "nameEn": "Mohammed bin Ammar bin Ali Al-Dandan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-27",
+      "classId": "201",
+      "nameAr": "محمد بن ياسر بن عباس المطوع",
+      "nameEn": "Mohammed bin Yasser bin Abbas Al-Mutawa",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "201-28",
+      "classId": "201",
+      "nameAr": "منتظر بن عبدالله بن عيسى العلي",
+      "nameEn": "Muntadhar bin Abdullah bin Essa Al-Ali",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-01",
+      "classId": "202",
+      "nameAr": "امجد بن منتظر بن عبدالرحيم البخيتان",
+      "nameEn": "Amjad bin Muntadhar bin Abdulrahim Al-Bukhaitan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-02",
+      "classId": "202",
+      "nameAr": "القاسم بن محمد بن نوري الخضير",
+      "nameEn": "Al-Qasim bin Mohammed bin Nouri Al-Khudair",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-03",
+      "classId": "202",
+      "nameAr": "المنتظر بن عدنان بن سماعيل المنسف",
+      "nameEn": "Al-Muntadhar bin Adnan bin Smail Al-Mansaf",
+      "hours": 40,
+      "recorded": true,
+      "sourcePage": 35
+    },
+    {
+      "id": "202-04",
+      "classId": "202",
+      "nameAr": "جاسم بن محمد بن يوسف الحمود",
+      "nameEn": "Jasim bin Mohammed bin Yusuf Al-Hamoud",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-05",
+      "classId": "202",
+      "nameAr": "جواد باقر بن جواد الحسن",
+      "nameEn": "Jawad Baqir bin Jawad Al-Hasan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-06",
+      "classId": "202",
+      "nameAr": "حسن بن عبدالله بن محمد السعد",
+      "nameEn": "Hasan bin Abdullah bin Mohammed Al-Saad",
+      "hours": 178,
+      "recorded": true,
+      "sourcePage": 47
+    },
+    {
+      "id": "202-07",
+      "classId": "202",
+      "nameAr": "حسن بن محمد بن خميس المشعل",
+      "nameEn": "Hasan bin Mohammed bin Khamis Al-Mishal",
+      "hours": 48,
+      "recorded": true,
+      "sourcePage": 39
+    },
+    {
+      "id": "202-08",
+      "classId": "202",
+      "nameAr": "حسين بن بسام حسين ابن احمد",
+      "nameEn": "Hussein bin Bassam Hussein ibn Ahmad",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-09",
+      "classId": "202",
+      "nameAr": "حسين بن محمد بن خميس المشعل",
+      "nameEn": "Hussein bin Mohammed bin Khamis Al-Mishal",
+      "hours": 48,
+      "recorded": true,
+      "sourcePage": 41
+    },
+    {
+      "id": "202-10",
+      "classId": "202",
+      "nameAr": "سجاد بن احمد بن محمد القرين",
+      "nameEn": "Sajjad bin Ahmad bin Mohammed Al-Qurain",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-11",
+      "classId": "202",
+      "nameAr": "عبد الله بن صالح بن عبد الله سالم الرويشد",
+      "nameEn": "Abd Allah bin Saleh bin Abd Allah Salem Al-Ruwaished",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-12",
+      "classId": "202",
+      "nameAr": "عبدالله بن محمد بن عبدالله الحاجي",
+      "nameEn": "Abdullah bin Mohammed bin Abdullah Al-Haji",
+      "hours": 140,
+      "recorded": true,
+      "sourcePage": 9
+    },
+    {
+      "id": "202-13",
+      "classId": "202",
+      "nameAr": "عبدالهادي بن علي بن محمد البدر",
+      "nameEn": "Abdulhadi bin Ali bin Mohammed Al-Badr",
+      "hours": 4,
+      "recorded": true,
+      "sourcePage": 25
+    },
+    {
+      "id": "202-14",
+      "classId": "202",
+      "nameAr": "علي بن محمد بن فهد الغانم",
+      "nameEn": "Ali bin Mohammed bin Fahad Al-Ghanim",
+      "hours": 51,
+      "recorded": true,
+      "sourcePage": 37
+    },
+    {
+      "id": "202-15",
+      "classId": "202",
+      "nameAr": "علي بن مصطفى بن صادق المبارك",
+      "nameEn": "Ali bin Mustafa bin Sadiq Al-Mubarak",
+      "hours": 10,
+      "recorded": true,
+      "sourcePage": 29
+    },
+    {
+      "id": "202-16",
+      "classId": "202",
+      "nameAr": "علي حسين حاجي العويشي",
+      "nameEn": "Ali Hussein Haji Al-Owaishi",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-17",
+      "classId": "202",
+      "nameAr": "فيصل بن بدر بن علي بوموزه",
+      "nameEn": "Faisal bin Badr bin Ali Bumouzah",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-18",
+      "classId": "202",
+      "nameAr": "كاظم بن هاني بن محمد الهودار",
+      "nameEn": "Kadhim bin Hani bin Mohammed Al-Hawdar",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-19",
+      "classId": "202",
+      "nameAr": "ليث بن خالد بن حسين الدندن",
+      "nameEn": "Laith bin Khalid bin Hussein Al-Dandan",
+      "hours": 140,
+      "recorded": true,
+      "sourcePage": 21
+    },
+    {
+      "id": "202-20",
+      "classId": "202",
+      "nameAr": "ماجد بن يحيى بن حبيب الزويد",
+      "nameEn": "Majid bin Yahya bin Habib Al-Zuwaid",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-21",
+      "classId": "202",
+      "nameAr": "محمد باقر بن جواد الحسن",
+      "nameEn": "Mohammed Baqir bin Jawad Al-Hasan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-22",
+      "classId": "202",
+      "nameAr": "محمد بن عبدالله بن علي المطلق",
+      "nameEn": "Mohammed bin Abdullah bin Ali Al-Mutlaq",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-23",
+      "classId": "202",
+      "nameAr": "محمد بن علي بن صالح العيسى",
+      "nameEn": "Mohammed bin Ali bin Saleh Al-Essa",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-24",
+      "classId": "202",
+      "nameAr": "محمد عقيل بن احمد العلي",
+      "nameEn": "Mohammed Aqil bin Ahmad Al-Ali",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-25",
+      "classId": "202",
+      "nameAr": "محمد علي بن عبدالله المسلم",
+      "nameEn": "Mohammed Ali bin Abdullah Al-Muslim",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "202-26",
+      "classId": "202",
+      "nameAr": "محمد علي بن ياسين الحاجي",
+      "nameEn": "Mohammed Ali bin Yasin Al-Haji",
+      "hours": 130,
+      "recorded": true,
+      "sourcePage": 33
+    },
+    {
+      "id": "202-27",
+      "classId": "202",
+      "nameAr": "ميثم بن جميل بن علي الشهابي",
+      "nameEn": "Maytham bin Jamil bin Ali Al-Shihabi",
+      "hours": 277,
+      "recorded": true,
+      "sourcePage": 45
+    },
+    {
+      "id": "202-28",
+      "classId": "202",
+      "nameAr": "حسن حمزة الشخص",
+      "nameEn": "Hasan Hamza Al-Shakhs",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-01",
+      "classId": "301",
+      "nameAr": "ابراهيم بن محمد بن طاهر الخلافي",
+      "nameEn": "Ibrahim bin Mohammed bin Tahir Al-Khalafi",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-02",
+      "classId": "301",
+      "nameAr": "حزام صالح حزام الجبهه",
+      "nameEn": "Hizam Saleh Hizam Al-Jabhah",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-03",
+      "classId": "301",
+      "nameAr": "حسن بن فوزي بن محمد الخليفة",
+      "nameEn": "Hasan bin Fawzi bin Mohammed Al-Khalifah",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-04",
+      "classId": "301",
+      "nameAr": "حسن بن هاني بن ابراهيم السليم",
+      "nameEn": "Hasan bin Hani bin Ibrahim Al-Sulaim",
+      "hours": 256,
+      "recorded": true,
+      "sourcePage": 17
+    },
+    {
+      "id": "301-05",
+      "classId": "301",
+      "nameAr": "حسن عبداللطيف حسين العبدالله",
+      "nameEn": "Hasan Abdullatif Hussein Al-Abdullah",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-06",
+      "classId": "301",
+      "nameAr": "حسين بدر بن احمد الحماد",
+      "nameEn": "Hussein Badr bin Ahmad Al-Hammad",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-07",
+      "classId": "301",
+      "nameAr": "رضا بن سالم بن صالح الخميس",
+      "nameEn": "Ridha bin Salem bin Saleh Al-Khamis",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-08",
+      "classId": "301",
+      "nameAr": "رضا بن عبدالحميد بن محمد الجعفر",
+      "nameEn": "Ridha bin Abdulhamid bin Mohammed Al-Jaafar",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-09",
+      "classId": "301",
+      "nameAr": "عبدالله بن احمد بن حبيب العويشي",
+      "nameEn": "Abdullah bin Ahmad bin Habib Al-Owaishi",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-10",
+      "classId": "301",
+      "nameAr": "عبدالله بن علي بن احمد الخليفة",
+      "nameEn": "Abdullah bin Ali bin Ahmad Al-Khalifah",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-11",
+      "classId": "301",
+      "nameAr": "عبدالله بن عيسى بن ابراهيم الفاضل",
+      "nameEn": "Abdullah bin Essa bin Ibrahim Al-Fadhil",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-12",
+      "classId": "301",
+      "nameAr": "علي بن عبدالباقي بن علي الدندن",
+      "nameEn": "Ali bin Abdulbaqi bin Ali Al-Dandan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-13",
+      "classId": "301",
+      "nameAr": "علي بن عبدالعزيز بن معتوق البحراني",
+      "nameEn": "Ali bin Abdulaziz bin Maatouq Al-Bahrani",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-14",
+      "classId": "301",
+      "nameAr": "مؤتمن بن حسين بن عيسى العيسى",
+      "nameEn": "Mu'taman bin Hussein bin Essa Al-Essa",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-15",
+      "classId": "301",
+      "nameAr": "مويد بن عبدالعظيم بن ياسين المكي",
+      "nameEn": "Muayyad bin Abdulazim bin Yasin Al-Makki",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-16",
+      "classId": "301",
+      "nameAr": "محمد بن هاني بن احمد السعد",
+      "nameEn": "Mohammed bin Hani bin Ahmad Al-Saad",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-17",
+      "classId": "301",
+      "nameAr": "محمد بن وليد بن عبدالمجيد القطان",
+      "nameEn": "Mohammed bin Walid bin Abdulmajeed Al-Qattan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-18",
+      "classId": "301",
+      "nameAr": "منصور بن محمد بن منصور البراهيم",
+      "nameEn": "Mansour bin Mohammed bin Mansour Al-Brahim",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-19",
+      "classId": "301",
+      "nameAr": "ميثم بن حسن بن جاسم الحماده",
+      "nameEn": "Maytham bin Hasan bin Jasim Al-Hamadah",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "301-20",
+      "classId": "301",
+      "nameAr": "هاشم بن عدنان بن محمد الحسن",
+      "nameEn": "Hashem bin Adnan bin Mohammed Al-Hasan",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "302-01",
+      "classId": "302",
+      "nameAr": "احمد بن يوسف بن ابراهيم الابري",
+      "nameEn": "Ahmad bin Yusuf bin Ibrahim Al-Abri",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "302-02",
+      "classId": "302",
+      "nameAr": "القاسم بن حسين بن عبدالله الوباري",
+      "nameEn": "Al-Qasim bin Hussein bin Abdullah Al-Wabari",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "302-03",
+      "classId": "302",
+      "nameAr": "جهاد جمال بن حسن ال مبارك",
+      "nameEn": "Jihad Jamal bin Hasan Al Mubarak",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "302-04",
+      "classId": "302",
+      "nameAr": "حسن بن حبيب بن احمد النيف",
+      "nameEn": "Hasan bin Habib bin Ahmad Al-Naif",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "302-05",
+      "classId": "302",
+      "nameAr": "حسين علي بن منصور بوخمسين",
+      "nameEn": "Hussein Ali bin Mansour Bukhamsin",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "302-06",
+      "classId": "302",
+      "nameAr": "خالد منيف علي الحربي",
+      "nameEn": "Khalid Munif Ali Al-Harbi",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "302-07",
+      "classId": "302",
+      "nameAr": "عامر بن داود بن سلمان العبدالله",
+      "nameEn": "Amer bin Dawood bin Salman Al-Abdullah",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "302-08",
+      "classId": "302",
+      "nameAr": "عبدالحكيم علي بن عمران الاحمد",
+      "nameEn": "Abdulhakim Ali bin Omran Al-Ahmad",
+      "hours": 492,
+      "recorded": true,
+      "sourcePage": 15
+    },
+    {
+      "id": "302-09",
+      "classId": "302",
+      "nameAr": "عبدالرحمن عبدالسلام عبدالرحمن اليمني",
+      "nameEn": "Abdulrahman Abdulsalam Abdulrahman Al-Yamani",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "302-10",
+      "classId": "302",
+      "nameAr": "عبدالله بن حسين احمد العبدالله",
+      "nameEn": "Abdullah bin Hussein Ahmad Al-Abdullah",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "302-11",
+      "classId": "302",
+      "nameAr": "عبدالله علي بن عبدالله العبدالله",
+      "nameEn": "Abdullah Ali bin Abdullah Al-Abdullah",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "302-12",
+      "classId": "302",
+      "nameAr": "غسان احمد صالح العبد المحسن",
+      "nameEn": "Ghassan Ahmad Saleh Al-Abd Al-Mohsen",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "302-13",
+      "classId": "302",
+      "nameAr": "محمد بن سعيد بن علي العلي",
+      "nameEn": "Mohammed bin Saeed bin Ali Al-Ali",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "302-14",
+      "classId": "302",
+      "nameAr": "محمد بن هاشم بن علي الهاشم",
+      "nameEn": "Mohammed bin Hashem bin Ali Al-Hashem",
+      "hours": 350,
+      "recorded": true,
+      "sourcePage": 13
+    },
+    {
+      "id": "302-15",
+      "classId": "302",
+      "nameAr": "مختار بن مهدي بن محمد الموسى",
+      "nameEn": "Mukhtar bin Mahdi bin Mohammed Al-Mousa",
+      "hours": 89,
+      "recorded": true,
+      "sourcePage": 3
+    },
+    {
+      "id": "302-16",
+      "classId": "302",
+      "nameAr": "ميثم بن محمد بن احمد العبدالله",
+      "nameEn": "Maytham bin Mohammed bin Ahmad Al-Abdullah",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "302-17",
+      "classId": "302",
+      "nameAr": "نايف صالح بن سلطان المغيره",
+      "nameEn": "Naif Saleh bin Sultan Al-Mughairah",
+      "hours": 0,
+      "recorded": false
+    },
+    {
+      "id": "302-18",
+      "classId": "302",
+      "nameAr": "يوسف بن ناصر بن علي البشر",
+      "nameEn": "Yusuf bin Nasser bin Ali Al-Bishr",
+      "hours": 0,
+      "recorded": false
+    }
+  ],
+  "importedAt": "2026-11-13",
+  "notes": [
+    "Arabic names are transcribed from the seven class roster images; حسن حمزة الشخص was added to class 202 from the user’s instruction.",
+    "English names are readable transliterations, not verified official English spellings.",
+    "27 reported hour totals from hours.pdf sum to 4273 hours. These are total balances, not additive activity entries.",
+    "135 students have no supplied hour record: stored hours=0 and recorded=false. One student explicitly reported 0 hours and has recorded=true.",
+    "Class 102 row 12 was rechecked against the roster image and PDF: the surname is الخلوف in both sources.",
+    "حسن بن محمد بن خميس المشعل and حسين بن محمد بن خميس المشعل are distinct class 202 roster entries and each has a separate 48-hour PDF submission.",
+    "See import-report.md for source reconciliation and uncertain roster spellings."
+  ]
+}
