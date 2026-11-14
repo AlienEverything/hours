@@ -1,4 +1,4 @@
-# منصة الساعات التطوعية بثانوية حمد الجبر العلمية للموهوبين
+# منصة عطاء للعمل التطوعي
 
 Arabic-first school leaderboard with English interface, class rankings and password-protected editing. Student names remain their original Arabic spelling. All seven class rosters and the supplied hour submissions are imported into `data/students.json`; students without a matched submission have `recorded: false`.
 
